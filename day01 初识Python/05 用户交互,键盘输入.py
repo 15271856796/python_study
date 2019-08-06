@@ -10,4 +10,4 @@ print(s)
 print(type(s))
 
 a=input()
-print a+s
+print(a+s)

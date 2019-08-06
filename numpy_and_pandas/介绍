@@ -1,0 +1,5 @@
+numpy和pandas是Python中用来计算的库,pandas是numpy的升级版本,
+numpy中引进了矩阵,从而进行并行计算,不用再像计算列表和字典那样的慢了
+
+numpy和pandas是用c语言来进行编写的,所以本来就比Python执行要快
+

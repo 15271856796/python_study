@@ -5,15 +5,15 @@
 
 #元组的索引与切片
 tip=(1,2,3,3,4,5)
-print tip[2]
-print tip[3:5]                                    #元组的索引与切片用法和字符串的一样
+print(tip[2])
+print(tip[3:5])                                    #元组的索引与切片用法和字符串的一样
 
 tip=tuple()
-print type(tip)
+print(type(tip))
 tip1 =()
-print type(tip1)
+print(type(tip1))
 
 tip2=(1)
-print type(tip2)
+print(type(tip2))
 tip3=(1,)
-print type(tip3)
+print(type(tip3))
